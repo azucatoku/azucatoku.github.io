@@ -1,2 +1,2 @@
 # github 오픈 준비 중!
-안녕하세요, 건축학도 Azunyaa의 기술 블로그입니다.
+안녕하세요, 건축학도 Azunyaa의 github입니다.
